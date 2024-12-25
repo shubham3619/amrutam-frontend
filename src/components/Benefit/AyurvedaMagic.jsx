@@ -1,12 +1,12 @@
 import React from "react";
-import meditationWoman from "../../assets/images/image 57.png";
-import WomanBcakground from "../../assets/images/image 54.png";
-import heartbeat from "../../assets/images/heartbeat.png";
-import lotusPosition from "../../assets/images/lotus-position.png";
-import strong from "../../assets/images/strong.png";
-import ayurveda from "../../assets/images/ayurveda.png";
-import ribbon from "../../assets/images/ribbon.png";
-import protection from "../../assets/images/protection.png";
+import meditationWoman from "../../assets/images/ayurvedaMagic/image 57.png";
+import WomanBcakground from "../../assets/images/ayurvedaMagic/image 54.png";
+import heartbeat from "../../assets/images/ayurvedaMagic/heartbeat.png";
+import lotusPosition from "../../assets/images/ayurvedaMagic/lotus-position.png";
+import strong from "../../assets/images/ayurvedaMagic/strong.png";
+import ayurveda from "../../assets/images/ayurvedaMagic/ayurveda.png";
+import ribbon from "../../assets/images/ayurvedaMagic/ribbon.png";
+import protection from "../../assets/images/ayurvedaMagic/protection.png";
 
 const AyurvedaMagic = () => {
   const features = [

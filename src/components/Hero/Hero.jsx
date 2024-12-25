@@ -1,10 +1,10 @@
-import backgroundImg from "../../assets/images/background1.png";
-import speechBubble from "../../assets/images/speech-bubble.png";
-import shield from "../../assets/images/shield.png";
-import doctor from "../../assets/images/doctor.png";
-import prescreption from "../../assets/images/prescrIption.png";
+import backgroundImg from "../../assets/images/background/background1.png";
+import speechBubble from "../../assets/images/hero/speech-bubble.png";
+import shield from "../../assets/images/hero/shield.png";
+import doctor from "../../assets/images/hero/doctor.png";
+import prescreption from "../../assets/images/hero/prescrIption.png";
 import Navbar from "../Navbar/Navbar";
-import backgroundMobileImg from "../../assets/images/backgroundMobileImg.png";
+import backgroundMobileImg from "../../assets/images/background/backgroundMobileImg.png";
 
 
 const Hero = () => {
