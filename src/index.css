@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Inknut+Antiqua:wght@300;400;500;600;700;800;900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+
+
+@font-face {
+  font-family: 'Din Pro';
+  src: url('./assets/Din-pro-font.ttf') ;
+}
+
+:root {
+  font-family: "Din Pro";
+  background-color: #fff;
+}
