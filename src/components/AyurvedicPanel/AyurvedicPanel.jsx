@@ -1,7 +1,7 @@
 import React from 'react';
-import ayurvedic1 from "../../assets/images/ayurvedic1.png";
-import ayurvedic2 from "../../assets/images/ayurvedic2.png";
-import ayurvedic3 from "../../assets/images/ayurvedic3.png";
+import ayurvedic1 from "../../assets/images/ayurvedicPannel/ayurvedic1.png";
+import ayurvedic2 from "../../assets/images/ayurvedicPannel/ayurvedic2.png";
+import ayurvedic3 from "../../assets/images/ayurvedicPannel/ayurvedic3.png";
 
 
 const AyurvedicPanel = () => {
